@@ -1,0 +1,6 @@
+id -1 
+description - the font doesn't match the figma
+  steps to reproduce - compare site with figma
+  excepted result - the font must be bold
+  actual result - the font is normal
+  
